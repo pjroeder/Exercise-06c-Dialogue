@@ -61,7 +61,7 @@ DialogicSingleton="*res://addons/dialogic/Other/DialogicSingleton.gd"
 
 [editor_plugins]
 
-enabled=PoolStringArray( "res://addons/dialogic/plugin.cfg" )
+enabled=PoolStringArray( "dialogic" )
 
 [input]
 

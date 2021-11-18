@@ -1,0 +1,37 @@
+{
+	"events": [
+		{
+			"action": "join",
+			"character": "character-1637264874.json",
+			"event_id": "dialogic_002",
+			"mirror": false,
+			"portrait": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": true
+			}
+		},
+		{
+			"action": "join",
+			"character": "character-1637264777.json",
+			"event_id": "dialogic_002",
+			"mirror": false,
+			"portrait": "",
+			"position": {
+				"0": true,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			}
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.3",
+		"file": "timeline-1637264932.json~RFe1e1a82.TMP",
+		"name": "Conversation"
+	}
+}
